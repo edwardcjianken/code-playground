@@ -31,9 +31,10 @@ function Student({
 }
 
 Student.propTypes = {
+  profilePhotoSrc: PropTypes.string,
   name: PropTypes.string,
   age: PropTypes.number,
-  isStudent: PropTypes.bool,
+  membershipValidity: PropTypes.bool,
 };
 
 export default Student;
