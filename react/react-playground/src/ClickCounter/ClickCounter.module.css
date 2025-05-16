@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.clickCounterContainer {
+  background-color: hsl(34, 57%, 80%);
+  text-align: center;
+}
+
+.clickCounterDisplay {
+  font-size: 10rem;
+}
+
+.clickCounterButton {
+  padding: 8px 20px;
+  font-size: 1rem;
+  background-color: hsl(60, 56%, 90%);
+  border-radius: 3px;
+  border: none;
+  margin: 5px 2px;
+  color: hsl(0, 0%, 15%);
+}
+
+.clickCounterButton:hover {
+  cursor: pointer;
+  background-color: hsl(60, 56%, 80%);
+}
+
+.clickMeButton {
+  margin: auto;
+  display: block;
+}

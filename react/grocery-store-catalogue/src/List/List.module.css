@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+  font-size: 16px;
+  background-color: hsl(126, 86%, 15%);
+}
+
+.itemTable {
+  border-collapse: collapse;
+  margin: auto;
+}
+
+.itemTable th,
+.itemTable td {
+  border: 1px solid hsl(0, 0%, 100%);
+  padding: 5px 15px;
+}
+
+.itemTable th {
+  background-color: hsl(60, 56%, 60%);
+}
+
+.itemTable td {
+  background-color: hsl(60, 56%, 91%);
+}
+
+h2 {
+  background-color: #f1b711;
+  color: white;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  padding: 10px;
+  text-align: center;
+}
