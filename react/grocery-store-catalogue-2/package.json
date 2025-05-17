@@ -2,7 +2,7 @@
   "name": "grocery-store-catalogue-2",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/edwardcjianken1/code-playground/",
+  "homepage": "https://edwardcjianken1.github.io/code-playground",
   "type": "module",
   "scripts": {
     "dev": "vite",
