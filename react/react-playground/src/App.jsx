@@ -1,13 +1,7 @@
-import Test1 from "./Test1/Test1.jsx";
-import Test2 from "./Test2/Test2.jsx";
+import Form from "./Form/Form";
 
 function App() {
-  return (
-    <>
-      <Test1></Test1>
-      <Test2></Test2>
-    </>
-  );
+  return <Form></Form>;
 }
 
 export default App;
