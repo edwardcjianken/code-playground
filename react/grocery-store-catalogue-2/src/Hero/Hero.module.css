@@ -1,0 +1,9 @@
+section {
+  width: 100vw;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
